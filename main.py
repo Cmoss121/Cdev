@@ -41,3 +41,5 @@ while True:
             run_bot(token)
         except Exception as e:
             print(f"Error starting bot: {str(e)}")
+
+# I was fucking high while making this 😭
