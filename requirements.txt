@@ -1,5 +1,4 @@
 colorama
-time
 os
 requests
 discord
