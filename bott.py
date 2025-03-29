@@ -30,7 +30,7 @@ logged in as {client.user}
 
 l$help or l$nuke to start
 
-''')
+""")
 
     @client.command()
     async def nuke(ctx, amount=50):
