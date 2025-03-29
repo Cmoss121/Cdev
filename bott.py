@@ -16,7 +16,7 @@ def run_bot(token):
     @client.event
     async def on_ready():
         await client.change_presence(activity=discord.Game(name= "made by L&V squad|| Playing https://discord.gg/m7TUywxAMu ONTOP"))
-        print(f'''
+        print(f'''{Style.BRIGHT + Fore.MAGENTA}
 
 logged in as {client.user}
 
@@ -28,7 +28,7 @@ logged in as {client.user}
  ╚═════╝╚═════╝ ╚══════╝  ╚═══╝  
 
 
-
+l$help or l$nuke to start
 
 ''')
 
